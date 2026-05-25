@@ -1,4 +1,4 @@
-remote_theme: jekyll-theme-serial-programmer
+theme: jekyll-theme-tacile
 title: Sean Abarca
 description: Information about Me
-plugins: jekyll-remote-theme
+#plugins: jekyll-remote-theme
