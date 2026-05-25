@@ -1,4 +1,4 @@
 remote_theme: jekyll-theme-game-dev-club-site
 title: Sean Abarca
 description: Information about Me
-plugin: jekyll-remote-theme
+plugins: jekyll-remote-theme
