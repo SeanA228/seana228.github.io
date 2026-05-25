@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: jekyll-theme-serial-programmer
 title: Sean Abarca
 description: Information about Me
+plugin: jekyll-remote-theme
