@@ -1,7 +1,6 @@
 theme: jekyll-theme-tactile
 title: Sean Abarca
 description: Information about Me
-domain: seana228.github.io 
 url: https://seana228.github.io
 plugins: 
   - jemoji
