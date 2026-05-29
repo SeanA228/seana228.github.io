@@ -6,7 +6,7 @@ I'm a sophomore Computer Science student with a strong interest in game developm
 I am doing a minor in Business (General)
 
 <div style = "text-align: center; margin: 2rem 0;">
-    <img src="/images/resume.png" style="width: 180px; border-radius: 10px;">
+    <img src="/images/resume.png" style="width: 360px; border-radius: 50px;">
 </div>
 
 
